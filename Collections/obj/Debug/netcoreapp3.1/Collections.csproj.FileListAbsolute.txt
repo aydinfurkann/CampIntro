@@ -1,0 +1,13 @@
+G:\Github\Camp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+G:\Github\Camp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+G:\Github\Camp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+G:\Github\Camp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+G:\Github\Camp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+G:\Github\Camp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+G:\Github\Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+G:\Github\Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+G:\Github\Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+G:\Github\Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+G:\Github\Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+G:\Github\Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
+G:\Github\Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache

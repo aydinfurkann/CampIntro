@@ -1,0 +1,13 @@
+G:\Github\Camp\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csprojAssemblyReference.cache
+G:\Github\Camp\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfoInputs.cache
+G:\Github\Camp\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfo.cs
+G:\Github\Camp\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csproj.CoreCompileInputs.cache
+G:\Github\Camp\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.exe
+G:\Github\Camp\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.deps.json
+G:\Github\Camp\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.json
+G:\Github\Camp\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.dev.json
+G:\Github\Camp\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.dll
+G:\Github\Camp\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.pdb
+G:\Github\Camp\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.dll
+G:\Github\Camp\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.pdb
+G:\Github\Camp\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.genruntimeconfig.cache

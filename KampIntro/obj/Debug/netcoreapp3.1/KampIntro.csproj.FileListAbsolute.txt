@@ -1,0 +1,13 @@
+G:\Github\Camp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csprojAssemblyReference.cache
+G:\Github\Camp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfoInputs.cache
+G:\Github\Camp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfo.cs
+G:\Github\Camp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csproj.CoreCompileInputs.cache
+G:\Github\Camp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.exe
+G:\Github\Camp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.deps.json
+G:\Github\Camp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.json
+G:\Github\Camp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.dev.json
+G:\Github\Camp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.dll
+G:\Github\Camp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.pdb
+G:\Github\Camp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.dll
+G:\Github\Camp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.pdb
+G:\Github\Camp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.genruntimeconfig.cache

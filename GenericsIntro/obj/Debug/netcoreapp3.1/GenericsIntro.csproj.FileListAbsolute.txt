@@ -1,0 +1,13 @@
+G:\Github\Camp\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+G:\Github\Camp\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+G:\Github\Camp\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+G:\Github\Camp\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+G:\Github\Camp\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+G:\Github\Camp\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+G:\Github\Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache
+G:\Github\Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+G:\Github\Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+G:\Github\Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+G:\Github\Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+G:\Github\Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+G:\Github\Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache

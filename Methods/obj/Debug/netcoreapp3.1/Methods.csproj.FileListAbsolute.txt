@@ -1,0 +1,13 @@
+G:\Github\Camp\KampIntro\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+G:\Github\Camp\KampIntro\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+G:\Github\Camp\KampIntro\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+G:\Github\Camp\KampIntro\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+G:\Github\Camp\KampIntro\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+G:\Github\Camp\KampIntro\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+G:\Github\Camp\KampIntro\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+G:\Github\Camp\KampIntro\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+G:\Github\Camp\KampIntro\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+G:\Github\Camp\KampIntro\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+G:\Github\Camp\KampIntro\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+G:\Github\Camp\KampIntro\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+G:\Github\Camp\KampIntro\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache

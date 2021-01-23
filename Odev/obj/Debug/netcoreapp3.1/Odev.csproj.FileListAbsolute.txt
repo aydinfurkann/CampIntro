@@ -1,0 +1,12 @@
+G:\Github\Camp\KampIntro\Odev\bin\Debug\netcoreapp3.1\Odev.exe
+G:\Github\Camp\KampIntro\Odev\bin\Debug\netcoreapp3.1\Odev.deps.json
+G:\Github\Camp\KampIntro\Odev\bin\Debug\netcoreapp3.1\Odev.runtimeconfig.json
+G:\Github\Camp\KampIntro\Odev\bin\Debug\netcoreapp3.1\Odev.runtimeconfig.dev.json
+G:\Github\Camp\KampIntro\Odev\bin\Debug\netcoreapp3.1\Odev.dll
+G:\Github\Camp\KampIntro\Odev\bin\Debug\netcoreapp3.1\Odev.pdb
+G:\Github\Camp\KampIntro\Odev\obj\Debug\netcoreapp3.1\Odev.AssemblyInfoInputs.cache
+G:\Github\Camp\KampIntro\Odev\obj\Debug\netcoreapp3.1\Odev.AssemblyInfo.cs
+G:\Github\Camp\KampIntro\Odev\obj\Debug\netcoreapp3.1\Odev.csproj.CoreCompileInputs.cache
+G:\Github\Camp\KampIntro\Odev\obj\Debug\netcoreapp3.1\Odev.dll
+G:\Github\Camp\KampIntro\Odev\obj\Debug\netcoreapp3.1\Odev.pdb
+G:\Github\Camp\KampIntro\Odev\obj\Debug\netcoreapp3.1\Odev.genruntimeconfig.cache
