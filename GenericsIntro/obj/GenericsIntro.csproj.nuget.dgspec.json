@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GitHub\\CampIntro\\CampIntro1\\GenericsIntro\\GenericsIntro.csproj": {}
+    "G:\\GitHub\\CampIntro\\GenericsIntro\\GenericsIntro.csproj": {}
   },
   "projects": {
-    "G:\\GitHub\\CampIntro\\CampIntro1\\GenericsIntro\\GenericsIntro.csproj": {
+    "G:\\GitHub\\CampIntro\\GenericsIntro\\GenericsIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GitHub\\CampIntro\\CampIntro1\\GenericsIntro\\GenericsIntro.csproj",
+        "projectUniqueName": "G:\\GitHub\\CampIntro\\GenericsIntro\\GenericsIntro.csproj",
         "projectName": "GenericsIntro",
-        "projectPath": "G:\\GitHub\\CampIntro\\CampIntro1\\GenericsIntro\\GenericsIntro.csproj",
+        "projectPath": "G:\\GitHub\\CampIntro\\GenericsIntro\\GenericsIntro.csproj",
         "packagesPath": "C:\\Users\\aydin\\.nuget\\packages\\",
-        "outputPath": "G:\\GitHub\\CampIntro\\CampIntro1\\GenericsIntro\\obj\\",
+        "outputPath": "G:\\GitHub\\CampIntro\\GenericsIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GitHub\\CampIntro\\CampIntro1\\Methods\\Methods.csproj",
+      "projectUniqueName": "G:\\GitHub\\CampIntro\\Methods\\Methods.csproj",
       "projectName": "Methods",
-      "projectPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Methods\\Methods.csproj",
+      "projectPath": "G:\\GitHub\\CampIntro\\Methods\\Methods.csproj",
       "packagesPath": "C:\\Users\\aydin\\.nuget\\packages\\",
-      "outputPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Methods\\obj\\",
+      "outputPath": "G:\\GitHub\\CampIntro\\Methods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",

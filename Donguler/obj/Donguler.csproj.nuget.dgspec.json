@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GitHub\\CampIntro\\CampIntro1\\Donguler\\Donguler.csproj": {}
+    "G:\\GitHub\\CampIntro\\Donguler\\Donguler.csproj": {}
   },
   "projects": {
-    "G:\\GitHub\\CampIntro\\CampIntro1\\Donguler\\Donguler.csproj": {
+    "G:\\GitHub\\CampIntro\\Donguler\\Donguler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GitHub\\CampIntro\\CampIntro1\\Donguler\\Donguler.csproj",
+        "projectUniqueName": "G:\\GitHub\\CampIntro\\Donguler\\Donguler.csproj",
         "projectName": "Donguler",
-        "projectPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Donguler\\Donguler.csproj",
+        "projectPath": "G:\\GitHub\\CampIntro\\Donguler\\Donguler.csproj",
         "packagesPath": "C:\\Users\\aydin\\.nuget\\packages\\",
-        "outputPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Donguler\\obj\\",
+        "outputPath": "G:\\GitHub\\CampIntro\\Donguler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",

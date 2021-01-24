@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GitHub\\CampIntro\\CampIntro1\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+      "projectUniqueName": "G:\\GitHub\\CampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
       "projectName": "DegerVeReferansTipler",
-      "projectPath": "G:\\GitHub\\CampIntro\\CampIntro1\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+      "projectPath": "G:\\GitHub\\CampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
       "packagesPath": "C:\\Users\\aydin\\.nuget\\packages\\",
-      "outputPath": "G:\\GitHub\\CampIntro\\CampIntro1\\DegerVeReferansTipler\\obj\\",
+      "outputPath": "G:\\GitHub\\CampIntro\\DegerVeReferansTipler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",

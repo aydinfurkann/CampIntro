@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GitHub\\CampIntro\\CampIntro1\\Collections\\Collections.csproj",
+      "projectUniqueName": "G:\\GitHub\\CampIntro\\Collections\\Collections.csproj",
       "projectName": "Collections",
-      "projectPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Collections\\Collections.csproj",
+      "projectPath": "G:\\GitHub\\CampIntro\\Collections\\Collections.csproj",
       "packagesPath": "C:\\Users\\aydin\\.nuget\\packages\\",
-      "outputPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Collections\\obj\\",
+      "outputPath": "G:\\GitHub\\CampIntro\\Collections\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",

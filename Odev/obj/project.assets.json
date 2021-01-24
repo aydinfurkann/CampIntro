@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GitHub\\CampIntro\\CampIntro1\\Odev\\Odev.csproj",
+      "projectUniqueName": "G:\\GitHub\\CampIntro\\Odev\\Odev.csproj",
       "projectName": "Odev",
-      "projectPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Odev\\Odev.csproj",
+      "projectPath": "G:\\GitHub\\CampIntro\\Odev\\Odev.csproj",
       "packagesPath": "C:\\Users\\aydin\\.nuget\\packages\\",
-      "outputPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Odev\\obj\\",
+      "outputPath": "G:\\GitHub\\CampIntro\\Odev\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GitHub\\CampIntro\\CampIntro1\\ClassIntro\\ClassIntro.csproj": {}
+    "G:\\GitHub\\CampIntro\\ClassIntro\\ClassIntro.csproj": {}
   },
   "projects": {
-    "G:\\GitHub\\CampIntro\\CampIntro1\\ClassIntro\\ClassIntro.csproj": {
+    "G:\\GitHub\\CampIntro\\ClassIntro\\ClassIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GitHub\\CampIntro\\CampIntro1\\ClassIntro\\ClassIntro.csproj",
+        "projectUniqueName": "G:\\GitHub\\CampIntro\\ClassIntro\\ClassIntro.csproj",
         "projectName": "ClassIntro",
-        "projectPath": "G:\\GitHub\\CampIntro\\CampIntro1\\ClassIntro\\ClassIntro.csproj",
+        "projectPath": "G:\\GitHub\\CampIntro\\ClassIntro\\ClassIntro.csproj",
         "packagesPath": "C:\\Users\\aydin\\.nuget\\packages\\",
-        "outputPath": "G:\\GitHub\\CampIntro\\CampIntro1\\ClassIntro\\obj\\",
+        "outputPath": "G:\\GitHub\\CampIntro\\ClassIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",

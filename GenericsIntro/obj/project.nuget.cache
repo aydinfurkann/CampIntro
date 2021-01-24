@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rzpHQpnjCElFsIQfUr3hBXNlPQht8p/4nhjbBGnkHIG3+WTgpqgGbbtA1JlzQm2GBlAo3jSHgsTRJeRn7nV/1g==",
+  "dgSpecHash": "Gtz88eXcyfijvh3WcUbPjkQ2vmIk7FR9v/zS1ihRUhl28hHYEu619BbtY37jY//HIemYil6829JqzZjKJcDgrA==",
   "success": true,
-  "projectFilePath": "G:\\GitHub\\CampIntro\\CampIntro1\\GenericsIntro\\GenericsIntro.csproj",
+  "projectFilePath": "G:\\GitHub\\CampIntro\\GenericsIntro\\GenericsIntro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

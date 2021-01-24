@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GitHub\\CampIntro\\CampIntro1\\Matematik\\Matematik.csproj": {}
+    "G:\\GitHub\\CampIntro\\Matematik\\Matematik.csproj": {}
   },
   "projects": {
-    "G:\\GitHub\\CampIntro\\CampIntro1\\Matematik\\Matematik.csproj": {
+    "G:\\GitHub\\CampIntro\\Matematik\\Matematik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GitHub\\CampIntro\\CampIntro1\\Matematik\\Matematik.csproj",
+        "projectUniqueName": "G:\\GitHub\\CampIntro\\Matematik\\Matematik.csproj",
         "projectName": "Matematik",
-        "projectPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Matematik\\Matematik.csproj",
+        "projectPath": "G:\\GitHub\\CampIntro\\Matematik\\Matematik.csproj",
         "packagesPath": "C:\\Users\\aydin\\.nuget\\packages\\",
-        "outputPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Matematik\\obj\\",
+        "outputPath": "G:\\GitHub\\CampIntro\\Matematik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
