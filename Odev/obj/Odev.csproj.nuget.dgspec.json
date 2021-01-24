@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Github\\Camp\\KampIntro\\Odev\\Odev.csproj": {}
+    "G:\\GitHub\\CampIntro\\CampIntro1\\Odev\\Odev.csproj": {}
   },
   "projects": {
-    "G:\\Github\\Camp\\KampIntro\\Odev\\Odev.csproj": {
+    "G:\\GitHub\\CampIntro\\CampIntro1\\Odev\\Odev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Github\\Camp\\KampIntro\\Odev\\Odev.csproj",
+        "projectUniqueName": "G:\\GitHub\\CampIntro\\CampIntro1\\Odev\\Odev.csproj",
         "projectName": "Odev",
-        "projectPath": "G:\\Github\\Camp\\KampIntro\\Odev\\Odev.csproj",
+        "projectPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Odev\\Odev.csproj",
         "packagesPath": "C:\\Users\\aydin\\.nuget\\packages\\",
-        "outputPath": "G:\\Github\\Camp\\KampIntro\\Odev\\obj\\",
+        "outputPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Odev\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",

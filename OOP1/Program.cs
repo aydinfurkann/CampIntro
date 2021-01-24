@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace OOP1
 {
@@ -26,6 +27,7 @@ namespace OOP1
             int toplamaSonucu = productManager.Topla(3, 6);
 
             Console.WriteLine(toplamaSonucu*2);
+
 
 
             //int,double,bool... değer tip

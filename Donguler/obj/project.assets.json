@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Github\\Camp\\KampIntro\\Donguler\\Donguler.csproj",
+      "projectUniqueName": "G:\\GitHub\\CampIntro\\CampIntro1\\Donguler\\Donguler.csproj",
       "projectName": "Donguler",
-      "projectPath": "G:\\Github\\Camp\\KampIntro\\Donguler\\Donguler.csproj",
+      "projectPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Donguler\\Donguler.csproj",
       "packagesPath": "C:\\Users\\aydin\\.nuget\\packages\\",
-      "outputPath": "G:\\Github\\Camp\\KampIntro\\Donguler\\obj\\",
+      "outputPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Donguler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",

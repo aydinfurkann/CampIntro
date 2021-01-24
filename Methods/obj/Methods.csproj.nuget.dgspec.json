@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Github\\Camp\\KampIntro\\Methods\\Methods.csproj": {}
+    "G:\\GitHub\\CampIntro\\CampIntro1\\Methods\\Methods.csproj": {}
   },
   "projects": {
-    "G:\\Github\\Camp\\KampIntro\\Methods\\Methods.csproj": {
+    "G:\\GitHub\\CampIntro\\CampIntro1\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Github\\Camp\\KampIntro\\Methods\\Methods.csproj",
+        "projectUniqueName": "G:\\GitHub\\CampIntro\\CampIntro1\\Methods\\Methods.csproj",
         "projectName": "Methods",
-        "projectPath": "G:\\Github\\Camp\\KampIntro\\Methods\\Methods.csproj",
+        "projectPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Methods\\Methods.csproj",
         "packagesPath": "C:\\Users\\aydin\\.nuget\\packages\\",
-        "outputPath": "G:\\Github\\Camp\\KampIntro\\Methods\\obj\\",
+        "outputPath": "G:\\GitHub\\CampIntro\\CampIntro1\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",

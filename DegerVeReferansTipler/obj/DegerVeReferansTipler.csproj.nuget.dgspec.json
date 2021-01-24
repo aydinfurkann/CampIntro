@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Github\\Camp\\KampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj": {}
+    "G:\\GitHub\\CampIntro\\CampIntro1\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj": {}
   },
   "projects": {
-    "G:\\Github\\Camp\\KampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj": {
+    "G:\\GitHub\\CampIntro\\CampIntro1\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Github\\Camp\\KampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+        "projectUniqueName": "G:\\GitHub\\CampIntro\\CampIntro1\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
         "projectName": "DegerVeReferansTipler",
-        "projectPath": "G:\\Github\\Camp\\KampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+        "projectPath": "G:\\GitHub\\CampIntro\\CampIntro1\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
         "packagesPath": "C:\\Users\\aydin\\.nuget\\packages\\",
-        "outputPath": "G:\\Github\\Camp\\KampIntro\\DegerVeReferansTipler\\obj\\",
+        "outputPath": "G:\\GitHub\\CampIntro\\CampIntro1\\DegerVeReferansTipler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
